@@ -2,11 +2,12 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/js/wow.min.js" />
         <item url="file://$PROJECT_DIR$/contactform/contactform.min.js" />
         <item url="file://$PROJECT_DIR$/js/bootstrap.min.js" />
         <item url="file://$PROJECT_DIR$/js/classie.min.js" />
-        <item url="file://$PROJECT_DIR$/js/html5shiv.min.js" />
         <item url="file://$PROJECT_DIR$/js/html5element.min.js" />
+        <item url="file://$PROJECT_DIR$/js/html5shiv.min.js" />
         <item url="file://$PROJECT_DIR$/js/jquery.easing.1.3.min.js" />
         <item url="file://$PROJECT_DIR$/js/jquery.isotope.min.js" />
         <item url="file://$PROJECT_DIR$/js/jquery-scrolltofixed.min.js" />
@@ -15,11 +16,12 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/js/html5shiv.min.min.js" />
       <root url="file://$PROJECT_DIR$/js/html5shiv.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/wow.min.js" />
       <root url="file://$PROJECT_DIR$/contactform/contactform.min.js" />
       <root url="file://$PROJECT_DIR$/js/bootstrap.min.js" />
       <root url="file://$PROJECT_DIR$/js/classie.min.js" />
-      <root url="file://$PROJECT_DIR$/js/html5shiv.min.js" />
       <root url="file://$PROJECT_DIR$/js/html5element.min.js" />
+      <root url="file://$PROJECT_DIR$/js/html5shiv.min.js" />
       <root url="file://$PROJECT_DIR$/js/jquery.easing.1.3.min.js" />
       <root url="file://$PROJECT_DIR$/js/jquery.isotope.min.js" />
       <root url="file://$PROJECT_DIR$/js/jquery-scrolltofixed.min.js" />
