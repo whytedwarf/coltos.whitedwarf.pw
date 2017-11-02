@@ -258,7 +258,7 @@
 		padding: 60px 0 70px
 	}
 
-	.client-part-haead {
+	.client-part-head {
 		font-size: 20px;
 		line-height: 30px;
 	}
@@ -276,11 +276,11 @@
 		background-size: contain;
 	}
 
-	.Portfolio-nav li a {
+	.Devices-nav li a {
 		padding: 5px 16px;
 	}
 
-	.Portfolio-nav li {
+	.Devices-nav li {
 		display: block;
 	}
 
@@ -314,17 +314,17 @@
 		display: block;
 	}
 
-	.Portfolio-box {
+	.Devices-box {
 		max-width: 300px !important;
 		width: 96.4% !important;
 		margin: 0 !important
 	}
 
-	.Portfolio-box img {
+	.Devices-box img {
 		max-width: 100%;
 	}
 
-	.portfolioContainer {
+	.devicesContainer {
 		width: 280px !important;
 		margin: 0 auto !important
 	}
