@@ -4,7 +4,7 @@
 
 @media only screen and (min-width: 992px) {
 	/****Ipad Landscape 1024 Container 970 ****/
-	.service-list {
+	.feature-list {
 		margin-bottom: 30px;
 	}
 
@@ -58,12 +58,12 @@
 		font-size: 15px;
 	}
 
-	.service-list {
+	.feature-list {
 		margin-bottom: 20px;
 		font-size: 15px;
 	}
 
-	.featured-work p.padding-b {
+	.features p.padding-b {
 		padding-bottom: 15px;
 	}
 
@@ -105,8 +105,14 @@
 		padding: 8px 15px;
 	}
 
-	/*.portfolioContainer{ width:750px; margin:0px auto !important; }
-	.Portfolio-box{ height:250px;}*/
+	.devicesContainer {
+		width: 750px;
+		margin: auto !important;
+	}
+
+	.Devices-box {
+		height: 250px;
+	}
 
 }
 
@@ -133,7 +139,7 @@
 		line-height: 18px;
 	}
 
-	.service-list {
+	.feature-list {
 		font-size: 12px;
 		margin-bottom: 20px;
 	}
@@ -162,7 +168,7 @@
 		width: 100%;
 		top: 74px;
 		margin: 0 auto;
-		flote: none;
+		float: none;
 		background: #fff;
 	}
 
@@ -199,16 +205,16 @@
 		display: block;
 	}
 
-	.featured-work {
+	.features {
 		font-size: 12px;
 		margin-top: 30px;
 	}
 
-	.featured-box {
+	.features-box {
 		font-size: 12px;
 	}
 
-	.featured-box p {
+	.features-box p {
 		line-height: 18px;
 	}
 
@@ -258,7 +264,7 @@
 		padding: 60px 0 70px
 	}
 
-	.client-part-head {
+	.screenshot-part-head {
 		font-size: 20px;
 		line-height: 30px;
 	}
@@ -284,18 +290,28 @@
 		display: block;
 	}
 
-	/*.isotope-item img{ width:300px; left:50%; margin-left:-100px;}
+	.isotope-item img {
+		width: 300px;
+		left: 50%;
+		margin-left: -100px;
+	}
 	.isotope-item{ width:300px; margin:0px auto;}
 	.isotope{ width:400px; margin:0px auto;}
-	.Portfolio-box{}
-	.portfolioContainer{ width:350px; margin:0px auto !important; } */
+
+	.Devices-box {
+	}
+
+	.devicesContainer {
+		width: 350px;
+		margin: 0px auto !important;
+	}
 
 }
 
 @media only screen and (max-width: 479px) {
 	/****Mobile Portrait 320 ****/
 	.contact-info-box {
-		margin-left: 0px;
+		margin-left: 0;
 	}
 
 	.header {
@@ -303,7 +319,7 @@
 	}
 
 	.social-link {
-		margin-left: 0px;
+		margin-left: 0;
 	}
 
 	.form {
