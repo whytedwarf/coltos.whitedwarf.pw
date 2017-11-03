@@ -417,7 +417,7 @@ img {
 /* Screenshots
 ---------------------------------*/
 .screenshots-part {
-	background: url(../img/section-bg1.jpg) center center no-repeat;
+	background: url(../img/headers/phone_2.jpg) center center no-repeat;
 	background-size: cover;
 	padding: 55px 0;
 	text-align: center;
@@ -640,7 +640,7 @@ img {
 /* About
 ---------------------------------*/
 .about-part {
-	background: url(../img/bg-simple_dashed.png) top center no-repeat;
+	background: url(../img/headers/phone_1.jpg) center center no-repeat;
 	background-size: cover;
 	padding: 60px 0 10px;
 	text-align: center;
