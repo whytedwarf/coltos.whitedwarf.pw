@@ -306,15 +306,18 @@
 	}
 
 	.Devices-box {
+		width: 250px;
 	}
 
 	.devicesContainer {
 		width: 350px;
 		margin: 0 auto !important;
 	}
-
 }
 
+.Devices-img img {
+	/*transform: scale(0.7,0.7);*/
+}
 @media only screen and (max-width: 479px) {
 	/****Mobile Portrait 320 ****/
 	.contact-info-box {
@@ -338,13 +341,9 @@
 	}
 
 	.Devices-box {
-		max-width: 300px !important;
-		width: 96.4% !important;
-		margin: 0 !important
-	}
-
-	.Devices-box img {
-		max-width: 100%;
+		width: 250px !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
 	}
 
 	.devicesContainer {
